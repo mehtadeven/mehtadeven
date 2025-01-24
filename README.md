@@ -13,14 +13,25 @@
 
 <br/>
   <h2 align="center">⚡ Current Stats ⚡</h2>
-<br>
-<div align=center>
+
+<div align="center">
+  
+  <!-- ![](https://komarev.com/ghpvc/?username=mehtadeven) -->
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehtadeven&theme=zenburn)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mehtadeven&theme=zenburn) 
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mehtadeven&theme=zenburn) 
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mehtadeven&theme=zenburn) 
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mehtadeven&theme=zenburn&utcOffset=8) 
+    
+</div><br>
+
+<!-- <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=mehtadeven&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=mehtadeven&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /><br>
   <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehtadeven&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-<br/>
-
+ -->
+ 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mehtadevenn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deventech)
