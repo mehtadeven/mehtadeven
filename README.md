@@ -5,10 +5,12 @@
   <a href="https://leetcode.com/mehtadeven/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
   <a href="https://leetcode.com/mehtadeven/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
 </p>
-<p align="center">
+
+<div align="center">
   
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/mehtadeven?theme=dark&font=Nunito&ext=heatmap" />  
-</p>
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/mehtadeven?theme=catppuccinMocha&font=ABeeZee&ext=heatmap&width=520rem)
+
+</div>
 
 
 <br/>
