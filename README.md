@@ -17,11 +17,11 @@
 <div align="center">
   
   <!-- ![](https://komarev.com/ghpvc/?username=mehtadeven) -->
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehtadeven&theme=zenburn)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mehtadeven&theme=zenburn) 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mehtadeven&theme=zenburn) 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mehtadeven&theme=zenburn) 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mehtadeven&theme=zenburn&utcOffset=8) 
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehtadeven&theme=github_dark)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mehtadeven&theme=github_dark) 
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mehtadeven&theme=github_dark) 
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mehtadeven&theme=github_dark) 
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mehtadeven&theme=github_dark&utcOffset=8) 
     
 </div><br>
 
