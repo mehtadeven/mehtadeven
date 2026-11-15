@@ -1,39 +1,50 @@
-<h2 align="center">Leetcode Info<h2>  
+<h1 align="center">Hi, I'm Mehta Deven 👋</h1>
+
 <p align="center">
-  <a href="https://leetcode.com/mehtadeven/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/mehtadeven/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/mehtadeven/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/mehtadeven/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
+  <b>IT Student (Semester 3) · SAL College of Engineering, Ahmedabad</b><br/>
+  Learning <b>Python, Machine Learning & AI</b> in public — building small, real projects and sharing what I learn.
 </p>
 
-<div align="center">
-  
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/mehtadeven?theme=catppuccinMocha&font=ABeeZee&ext=heatmap&width=520rem)
+<p align="center">
+  <a href="https://www.linkedin.com/">LinkedIn (coming this week)</a> ·
+  <a href="https://github.com/mehtadeven">GitHub</a> ·
+  Instagram: <b>@dev.builds</b> (launching soon)
+</p>
 
-</div>
+---
 
+## 🚀 Featured Projects
 
-<br/>
-  <h2 align="center">⚡ Current Stats ⚡</h2>
+| Project | What it does | Stack |
+|---|---|---|
+| [✍️ Digit Recognizer](https://github.com/mehtadeven/digit-recognizer-ml) | Recognises handwritten digits — SVM hits **98.9% accuracy** | Python · scikit-learn |
+| [📩 Spam SMS Classifier](https://github.com/mehtadeven/spam-sms-classifier) | NLP classifier that separates spam from real messages (even OTP scams) | Python · TF-IDF · Logistic Regression |
+| [🎬 Movie Recommender AI](https://github.com/mehtadeven/movie-recommender-ai) | Content-based recommendations with cosine similarity | Python · pandas · scikit-learn |
 
-<div align="center">
-  
-  <!-- ![](https://komarev.com/ghpvc/?username=mehtadeven) -->
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehtadeven&theme=github_dark)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mehtadeven&theme=github_dark) 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mehtadeven&theme=github_dark) 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mehtadeven&theme=github_dark) 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mehtadeven&theme=github_dark&utcOffset=8) 
-    
-</div><br>
+## 🛠️ Skills & Tools
 
-<!-- <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=mehtadeven&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=mehtadeven&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /><br>
-  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehtadeven&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
- -->
- 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mehtadevenn)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deventech)
+**Languages:** Python · JavaScript · C · HTML/CSS
+**ML/AI:** scikit-learn · pandas · NumPy · TF-IDF · classification · recommendation systems
+**Building with:** Django · Streamlit · Git & GitHub · n8n (learning) · Ollama (learning)
+
+## 🌱 Currently
+
+- 📚 Semester 3 of my IT degree at SAL, Ahmedabad
+- 🤖 In the **EAG-AI Growth Challenge (Cohort 14)** — applied AI, evenings
+- 🗓️ Running a **30-Day AI Builder Plan**: Claude, n8n, local LLMs with Ollama, AI agents
+- 📸 Starting **@dev.builds** on Instagram — 60-second Python & AI lessons
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mehtadeven&show_icons=true&theme=tokyonight" alt="Deven's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehtadeven&layout=compact&theme=tokyonight" alt="Top languages" height="165"/>
+</p>
+
+## 🎯 Goal
+
+Build real AI projects → turn them into a portfolio → internships and freelance work in AI/ML.
+
+---
+
+<p align="center"><i>Build once, publish three times: every project becomes a repo, a post, and a lesson.</i></p>
