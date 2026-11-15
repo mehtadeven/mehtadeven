@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240">
+  <defs>
+    <linearGradient id="navy" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B3C5D"/>
+      <stop offset="1" stop-color="#072A44"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Rounded square background -->
+  <rect x="0" y="0" width="240" height="240" rx="48" fill="url(#navy)"/>
+  <circle cx="216" cy="18" r="72" fill="#F7F1E1" opacity="0.05"/>
+
+  <!-- MD monogram: the right stem of the M is shared as the stem of the D -->
+  <g fill="none" stroke="#F7F1E1" stroke-width="15" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M43 156 V64 L87 116 L131 64 V156"/>
+    <path d="M131 64 L149 64 A48 46 0 0 1 149 156 L131 156"/>
+  </g>
+
+  <!-- Gold accent bar -->
+  <rect x="43" y="176" width="154" height="9" rx="4.5" fill="#E3A82B"/>
+</svg>
