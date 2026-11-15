@@ -16,6 +16,14 @@ Open to internships and project collaborations in AI/ML — the fastest way to r
 
 ## Featured Projects
 
+### [Resume-Job Matcher](https://github.com/mehtadeven/resume-job-matcher)
+
+<img src="https://raw.githubusercontent.com/mehtadeven/resume-job-matcher/main/assets/banner.svg" alt="Project banner" width="100%"/>
+
+- **Problem:** Recruiters and screening software filter resumes by keywords before a human reads them — most students never see that screening.
+- **Built with:** Python, scikit-learn TF-IDF + cosine similarity, plus a small web UI (CLI + browser versions)
+- **Result:** Scores a resume against a job post and lists the exact missing keywords (sample run: 46.7% keyword coverage, correctly flagging Docker, APIs and embeddings as gaps).
+
 ### [Handwritten Digit Recognizer](https://github.com/mehtadeven/digit-recognizer-ml)
 
 <img src="https://raw.githubusercontent.com/mehtadeven/digit-recognizer-ml/main/assets/banner.svg" alt="Project banner" width="100%"/>
