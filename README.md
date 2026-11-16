@@ -1,108 +1,79 @@
-![Mehta Deven — Python, Machine Learning, AI](assets/banner.svg)
+<div align="center">
 
-# Mehta Deven
+<img src="assets/banner.svg" alt="Mehta Deven — Python, Machine Learning, AI" width="100%"/>
 
-**IT student in Ahmedabad building real, working AI/ML projects in Python.**
+## Mehta Deven
 
-Open to internships and project collaborations in AI/ML — the fastest way to reach me is right here on GitHub, or through my [portfolio site](https://mehtadeven.github.io/portfolio/).
+**IT Student · Python · Machine Learning · AI**
 
-## About
+[![Portfolio](https://img.shields.io/badge/Portfolio-0B3C5D?style=for-the-badge&logo=globe&logoColor=white)](https://mehtadeven.github.io/portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mehtadeven)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devenmehta2@gmail.com)
 
-- Semester 3 IT student (diploma-to-degree) at SAL College of Engineering, Ahmedabad
-- I build end-to-end ML projects — data, model, evaluation, documentation — with measured results, not just demos
-- I teach Python and ML in short lessons on Instagram as [@dev.builds](https://www.instagram.com/dev.builds/)
-- I learn by shipping real repositories, not by collecting tutorials
-- Currently learning: n8n, local LLMs with Ollama, React, and MongoDB
-
-## Featured Projects
-
-### [Resume-Job Matcher](https://github.com/mehtadeven/resume-job-matcher)
-
-<img src="https://raw.githubusercontent.com/mehtadeven/resume-job-matcher/main/assets/banner.svg" alt="Project banner" width="100%"/>
-
-- **Problem:** Recruiters and screening software filter resumes by keywords before a human reads them — most students never see that screening.
-- **Built with:** Python, scikit-learn TF-IDF + cosine similarity, plus a small web UI (CLI + browser versions)
-- **Result:** Scores a resume against a job post and lists the exact missing keywords (sample run: 46.7% keyword coverage, correctly flagging Docker, APIs and embeddings as gaps).
-
-### [Handwritten Digit Recognizer](https://github.com/mehtadeven/digit-recognizer-ml)
-
-<img src="https://raw.githubusercontent.com/mehtadeven/digit-recognizer-ml/main/assets/banner.svg" alt="Project banner" width="100%"/>
-- **Problem:** Recognise handwritten digits (0–9) from small 8×8 pixel images.
-- **Built with:** Python, scikit-learn (SVM and Random Forest, benchmarked against each other)
-- **Result:** **98.89% test accuracy with SVM** (Random Forest: 96.39%), with a saved model so predictions load instantly.
-
-### [Spam SMS Classifier](https://github.com/mehtadeven/spam-sms-classifier)
-
-<img src="https://raw.githubusercontent.com/mehtadeven/spam-sms-classifier/main/assets/banner.svg" alt="Project banner" width="100%"/>
-- **Problem:** Filter spam texts without blocking real messages — it correctly separates a genuine OTP from an OTP phishing text.
-- **Built with:** Python, TF-IDF + Logistic Regression
-- **Result:** 100% on its bundled 240-message demo set — stated honestly: that set is small and clear-cut, and the same pipeline is expected to score ~96–98% on the full UCI SMS Spam Collection. Supports batch mode for classifying whole files.
-
-### [Movie Recommender AI](https://github.com/mehtadeven/movie-recommender-ai)
-
-<img src="https://raw.githubusercontent.com/mehtadeven/movie-recommender-ai/main/assets/banner.svg" alt="Project banner" width="100%"/>
-- **Problem:** Suggest films similar to one you liked, from content alone — no user history needed.
-- **Built with:** Python, pandas, TF-IDF + cosine similarity over a 48-film catalogue
-- **Result:** Working recommendations with genre filters and adjustable result counts (e.g. *3 Idiots* → *Chhichhore*, *Munna Bhai MBBS*, *Hera Pheri*).
-
-### [DevBot — AI Chatbot](https://github.com/mehtadeven/ai-chatbot-python)
-
-<img src="https://raw.githubusercontent.com/mehtadeven/ai-chatbot-python/main/assets/banner.svg" alt="Project banner" width="100%"/>
-- **Problem:** A small chatbot that answers questions about me and my work — and admits it when it doesn't know, instead of making something up.
-- **Built with:** Python, TF-IDF intent matching over a hand-written intents file
-- **Result:** Honest fallback below a confidence threshold, and every unanswered question is logged so the bot can be taught what it missed.
-
-### [Text Summarizer AI](https://github.com/mehtadeven/text-summarizer-ai)
-
-<img src="https://raw.githubusercontent.com/mehtadeven/text-summarizer-ai/main/assets/banner.svg" alt="Project banner" width="100%"/>
-- **Problem:** Turn long articles into a short, readable summary in seconds.
-- **Built with:** Python, extractive summarisation with TF-IDF sentence scoring
-- **Result:** Adjustable summary length plus the document's top keywords printed with every summary.
-
-More detail on each project, with live links, is on my **[portfolio site](https://mehtadeven.github.io/portfolio/)**.
-
-## Tech Stack
-
-**Core**
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-
-**Web basics**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
-
-**Learning next** — currently studying these; not yet used in shipped projects
-
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-111111?logo=ollama&logoColor=white)
-
-## Connect
-
-- **GitHub:** [github.com/mehtadeven](https://github.com/mehtadeven)
-- **Portfolio:** [mehtadeven.github.io/portfolio](https://mehtadeven.github.io/portfolio/)
-- **Instagram (teaching page):** [@dev.builds](https://www.instagram.com/dev.builds/) — short Python & AI lessons, launching soon
+**Open to internships and project opportunities** · based in Ahmedabad, India
 
 ---
 
-<p align="center"><i>"The best way to learn AI is not to watch it. It's to build it."</i></p>
+</div>
 
-## GitHub Stats
+## About
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehtadeven&show_icons=true&theme=tokyonight&hide_border=true" alt="Mehta Deven's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehtadeven&layout=compact&theme=tokyonight&hide_border=true" alt="Mehta Deven's most used languages" height="165"/>
-</p>
+Semester 3 Information Technology student (diploma-to-degree) at SAL College of Engineering, Ahmedabad. I build real, runnable ML/AI projects in Python — every project ships with tests, measured results and a working demo, because a result you cannot run is just a claim. I learn in public and keep my code simple enough to explain line by line in an interview.
+
+```
+6 ML/AI projects shipped        |  98.89% best accuracy (SVM, digit recognizer)
+36 automated tests passing      |  7+ pull requests merged
+2 GitHub achievements earned    |  Pull Shark · Developer Program Member
+```
+
+## Featured Projects
+
+| Project | Stack | Link |
+|--------|-------|------|
+| **Resume–Job Matcher** · Checks a resume against a job post and lists the exact missing keywords — 46.7% keyword coverage on the sample pair; runs as a CLI tool and a web UI | `Python` `TF-IDF` `scikit-learn` | [→ Repo](https://github.com/mehtadeven/resume-job-matcher) |
+| **Handwritten Digit Recognizer** · Recognises handwritten digits from 8×8 pixel images — SVM 98.89% vs Random Forest 96.39% on 1,797 images | `Python` `scikit-learn` `SVM` | [→ Repo](https://github.com/mehtadeven/digit-recognizer-ml) |
+| **Spam SMS Classifier** · Separates genuine OTP messages from OTP phishing, and shows a confidence score with every prediction | `Python` `TF-IDF` `Logistic Regression` | [→ Repo](https://github.com/mehtadeven/spam-sms-classifier) |
+| **Movie Recommender AI** · Content-based recommendations over 60 films using TF-IDF + cosine similarity — runs in Python and in the browser, no install needed | `Python` `JavaScript` `HTML/CSS` | [→ Repo](https://github.com/mehtadeven/movie-recommender-ai) · Browser demo: `web/index.html` in the repo |
+| **DevBot Chatbot** · A small chatbot that answers questions about me and my projects, with an honest fallback when it does not know | `Python` `NLP` `TF-IDF` | [→ Repo](https://github.com/mehtadeven/ai-chatbot-python) |
+| **Text Summarizer AI** · Extractive summarizer that picks the most important sentences and prints sentence scores and top keywords | `Python` `TF-IDF` | [→ Repo](https://github.com/mehtadeven/text-summarizer-ai) |
+| **Portfolio Website** · My portfolio site with every project, its results and its demo | `React` `Vite` `JavaScript` | [→ Repo](https://github.com/mehtadeven/portfolio) · [Live](https://mehtadeven.github.io/portfolio/) |
+
+## Tech Stack
+
+**Languages**
+`Python` `JavaScript` `HTML` `CSS` `C`
+
+**ML / AI**
+`scikit-learn` `pandas` `NumPy` `TF-IDF` `Classification` `Recommendation Systems`
+
+**Web**
+`React` `Vite` `Node.js (build tooling)`
+
+**Tools**
+`Git` `GitHub` `VS Code`
+
+**Learning next** — currently studying these; not yet used in shipped projects
+`MongoDB` `Angular` `SASS` `n8n` `Ollama`
+
+## Achievements
+
+- **Pull Shark** — earned by getting pull requests merged (7+ merged so far, including every project upgrade on this account).
+- **Developer Program Member** — registered member of the GitHub Developer Program.
+
+## Education
+
+**B.E. Information Technology (Diploma-to-Degree), Semester 3** — SAL College of Engineering, Ahmedabad · 2025 – present
+
+**Diploma in Information Technology**
+
+## Let's Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0B3C5D?style=for-the-badge&logo=globe&logoColor=white)](https://mehtadeven.github.io/portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mehtadeven)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devenmehta2@gmail.com)
+
+*I learn in public: every project is real, runnable, and measured — no inflated claims.*
+
+</div>
