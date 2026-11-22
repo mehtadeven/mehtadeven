@@ -48,7 +48,7 @@
 <!-- ─────────── Project 01 · DevBot (FEATURED: put your strongest project here) ─────────── -->
 
 <p align="center">
-  <img src="assets/p1-devbot.svg" width="100%" alt="DevBot: a chatbot that answers your questions" />
+  <img src="assets/p1-matcher.svg" width="100%" alt="DevBot: a chatbot that answers your questions" />
 </p>
 
 <p align="center">
@@ -75,7 +75,7 @@
 <!-- ─────────── Project 02 · Text Summarizer ─────────── -->
 
 <p align="center">
-  <img src="assets/p2-summarizer.svg" width="100%" alt="Text Summarizer: turns long text into key points" />
+  <img src="assets/p2-spam.svg" width="100%" alt="Text Summarizer: turns long text into key points" />
 </p>
 
 <p align="center">
@@ -94,7 +94,7 @@
 <!-- ─────────── Project 03 · Spam SMS Classifier ─────────── -->
 
 <p align="center">
-  <img src="assets/p3-spam.svg" width="100%" alt="Spam SMS Classifier: flags messages as spam or safe" />
+  <img src="assets/p3-digits.svg" width="100%" alt="Spam SMS Classifier: flags messages as spam or safe" />
 </p>
 
 <p align="center">
@@ -113,7 +113,7 @@
 <!-- ─────────── Project 04 · Movie Recommender ─────────── -->
 
 <p align="center">
-  <img src="assets/p4-recommender.svg" width="100%" alt="Movie Recommender: suggests similar movies" />
+  <img src="assets/p4-devbots.svg" width="100%" alt="Movie Recommender: suggests similar movies" />
 </p>
 
 <p align="center">
@@ -132,7 +132,7 @@
 <!-- ─────────── Project 05 · Digit Recognizer ─────────── -->
 
 <p align="center">
-  <img src="assets/p5-digits.svg" width="100%" alt="Digit Recognizer: predicts handwritten digits 0-9" />
+  <img src="assets/p5-recommender.svg" width="100%" alt="Digit Recognizer: predicts handwritten digits 0-9" />
 </p>
 
 <p align="center">
