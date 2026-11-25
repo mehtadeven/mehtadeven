@@ -116,26 +116,6 @@
 <br/>
 
 <p align="center">
-  <img src="assets/h06.svg" width="100%" alt="06 // By the numbers" />
-</p>
-<p align="center">
-  <img src="assets/numbers.svg" width="100%" alt="6 projects shipped, 52 automated tests, 3,000+ lines of Python, 98.89% best test accuracy" />
-</p>
-<p align="center">
-  <img src="profile/stats.svg" width="49%" alt="Live GitHub stats for mehtadeven, refreshed daily" />
-  <img src="profile/top-langs.svg" width="49%" alt="Most used languages across my repositories" />
-</p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mehtadeven/mehtadeven/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mehtadeven/mehtadeven/output/github-snake.svg" />
-    <img alt="My contribution graph being eaten by a snake, regenerated every day" src="https://raw.githubusercontent.com/mehtadeven/mehtadeven/output/github-snake-dark.svg" width="100%" />
-  </picture>
-</p>
-
-<br/>
-
-<p align="center">
   <img src="assets/h07.svg" width="100%" alt="07 // Education" />
 </p>
 <p align="center">
