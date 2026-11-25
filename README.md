@@ -122,8 +122,8 @@
   <img src="assets/numbers.svg" width="100%" alt="6 projects shipped, 52 automated tests, 3,000+ lines of Python, 98.89% best test accuracy" />
 </p>
 <p align="center">
-  <img src="profile/stats.svg" height="170" alt="Live GitHub stats for mehtadeven, refreshed daily" />
-  <img src="profile/top-langs.svg" height="170" alt="Most used languages across my repositories" />
+  <img src="profile/stats.svg" width="49%" alt="Live GitHub stats for mehtadeven, refreshed daily" />
+  <img src="profile/top-langs.svg" width="49%" alt="Most used languages across my repositories" />
 </p>
 <p align="center">
   <picture>
