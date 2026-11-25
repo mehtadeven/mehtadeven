@@ -7,8 +7,9 @@
 <p align="center">
   <a href="https://mehtadeven.github.io/"><img src="assets/btn-portfolio.svg" height="68" alt="View my portfolio" /></a>
   <a href="https://github.com/mehtadeven?tab=repositories"><img src="assets/btn-projects.svg" height="68" alt="All my projects on GitHub" /></a>
+  <br/>
+  <a href="https://www.linkedin.com/in/mehtadevenn/"><img src="assets/btn-linkedin.svg" height="68" alt="LinkedIn: Mehta Deven" /></a>
   <a href="https://instagram.com/deven.py"><img src="assets/btn-instagram-v2.svg" height="68" alt="Instagram @deven.py" /></a>
-  <!-- <a href="https://www.linkedin.com/in/mehtadevenn/"><img src="assets/btn-linkedin.svg" height="68" alt="LinkedIn: Mehta Deven" /></a> -->
   <!-- Ready-made email button. Put your email in, then remove the comment marks around the line:
   <a href="mailto:YOUR_EMAIL"><img src="assets/btn-email.svg" height="68" alt="Email me" /></a>
   -->
@@ -133,8 +134,9 @@
 <p align="center">
   <a href="https://mehtadeven.github.io/"><img src="assets/btn-portfolio.svg" height="68" alt="View my portfolio" /></a>
   <a href="https://github.com/mehtadeven?tab=repositories"><img src="assets/btn-projects.svg" height="68" alt="All my projects on GitHub" /></a>
-  <a href="https://instagram.com/deven.py"><img src="assets/btn-instagram-v2.svg" height="68" alt="Instagram @deven.py" /></a>
+  <br/>
   <a href="https://www.linkedin.com/in/mehtadevenn/"><img src="assets/btn-linkedin.svg" height="68" alt="LinkedIn: Mehta Deven" /></a>
+  <a href="https://instagram.com/deven.py"><img src="assets/btn-instagram-v2.svg" height="68" alt="Instagram @deven.py" /></a>
   <!-- Ready-made email button. Put your email in, then remove the comment marks around the line:
   <a href="mailto:YOUR_EMAIL"><img src="assets/btn-email.svg" height="68" alt="Email me" /></a>
   -->
