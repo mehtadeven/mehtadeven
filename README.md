@@ -8,9 +8,9 @@
   <a href="https://mehtadeven.github.io/"><img src="assets/btn-portfolio.svg" height="68" alt="View my portfolio" /></a>
   <a href="https://github.com/mehtadeven?tab=repositories"><img src="assets/btn-projects.svg" height="68" alt="All my projects on GitHub" /></a>
   <a href="https://instagram.com/deven.py"><img src="assets/btn-instagram-v2.svg" height="68" alt="Instagram @deven.py" /></a>
-  <!-- Ready-made buttons. Put your email / LinkedIn link in, then remove the comment marks around the line:
+  <a href="https://www.linkedin.com/in/mehtadevenn/"><img src="assets/btn-linkedin.svg" height="68" alt="LinkedIn: Mehta Deven" /></a>
+  <!-- Ready-made email button. Put your email in, then remove the comment marks around the line:
   <a href="mailto:YOUR_EMAIL"><img src="assets/btn-email.svg" height="68" alt="Email me" /></a>
-  <a href="https://www.linkedin.com/in/YOUR_HANDLE/"><img src="assets/btn-linkedin.svg" height="68" alt="LinkedIn" /></a>
   -->
 </p>
 
@@ -121,6 +121,17 @@
 <p align="center">
   <img src="assets/numbers.svg" width="100%" alt="6 projects shipped, 52 automated tests, 3,000+ lines of Python, 98.89% best test accuracy" />
 </p>
+<p align="center">
+  <img src="profile/stats.svg" height="170" alt="Live GitHub stats for mehtadeven, refreshed daily" />
+  <img src="profile/top-langs.svg" height="170" alt="Most used languages across my repositories" />
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mehtadeven/mehtadeven/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mehtadeven/mehtadeven/output/github-snake.svg" />
+    <img alt="My contribution graph being eaten by a snake, regenerated every day" src="https://raw.githubusercontent.com/mehtadeven/mehtadeven/output/github-snake-dark.svg" width="100%" />
+  </picture>
+</p>
 
 <br/>
 
@@ -143,9 +154,9 @@
   <a href="https://mehtadeven.github.io/"><img src="assets/btn-portfolio.svg" height="68" alt="View my portfolio" /></a>
   <a href="https://github.com/mehtadeven?tab=repositories"><img src="assets/btn-projects.svg" height="68" alt="All my projects on GitHub" /></a>
   <a href="https://instagram.com/deven.py"><img src="assets/btn-instagram-v2.svg" height="68" alt="Instagram @deven.py" /></a>
-  <!-- Ready-made buttons. Put your email / LinkedIn link in, then remove the comment marks around the line:
+  <a href="https://www.linkedin.com/in/mehtadevenn/"><img src="assets/btn-linkedin.svg" height="68" alt="LinkedIn: Mehta Deven" /></a>
+  <!-- Ready-made email button. Put your email in, then remove the comment marks around the line:
   <a href="mailto:YOUR_EMAIL"><img src="assets/btn-email.svg" height="68" alt="Email me" /></a>
-  <a href="https://www.linkedin.com/in/YOUR_HANDLE/"><img src="assets/btn-linkedin.svg" height="68" alt="LinkedIn" /></a>
   -->
 </p>
 
