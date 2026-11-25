@@ -5,7 +5,7 @@
   <img src="assets/typing.svg" width="100%" alt="raw data -&gt; model -&gt; working app" />
 </p>
 <p align="center">
-  <a href="https://mehtadeven.github.io/portfolio"><img src="assets/btn-portfolio.svg" height="68" alt="View my portfolio" /></a>
+  <a href="https://mehtadeven.github.io/"><img src="assets/btn-portfolio.svg" height="68" alt="View my portfolio" /></a>
   <a href="https://github.com/mehtadeven?tab=repositories"><img src="assets/btn-projects.svg" height="68" alt="All my projects on GitHub" /></a>
   <a href="https://instagram.com/dev.builds"><img src="assets/btn-instagram.svg" height="68" alt="Instagram @dev.builds" /></a>
   <!-- Ready-made buttons. Put your email / LinkedIn link in, then remove the comment marks around the line:
@@ -41,6 +41,7 @@
   <img src="assets/p1-matcher.svg" width="100%" alt="Resume-Job Matcher: Scores a resume against a job post and lists the exact keywords it is missing." />
 </p>
 <p align="center">
+  <a href="https://mehtadeven.github.io/resume-job-matcher/"><img src="assets/btn-demo.svg" height="68" alt="See Resume-Job Matcher live in your browser" /></a>
   <a href="https://github.com/mehtadeven/resume-job-matcher"><img src="assets/btn-code.svg" height="68" alt="View source code of Resume-Job Matcher" /></a>
 </p>
 
@@ -50,6 +51,7 @@
   <img src="assets/p2-spam.svg" width="100%" alt="Spam SMS Checker: Checks a text message offline and flags spam and phishing signs like risky links and OTP requests." />
 </p>
 <p align="center">
+  <a href="https://mehtadeven.github.io/spam-sms-checker/"><img src="assets/btn-demo.svg" height="68" alt="See Spam SMS Checker live in your browser" /></a>
   <a href="https://github.com/mehtadeven/spam-sms-checker"><img src="assets/btn-code.svg" height="68" alt="View source code of Spam SMS Checker" /></a>
 </p>
 
@@ -59,6 +61,7 @@
   <img src="assets/p3-digits.svg" width="100%" alt="Digit Recognizer: Recognises handwritten digits (0-9) from 8x8 pixel images and compares two models." />
 </p>
 <p align="center">
+  <a href="https://mehtadeven.github.io/digit-recognizer-ml/"><img src="assets/btn-demo.svg" height="68" alt="See Digit Recognizer live in your browser" /></a>
   <a href="https://github.com/mehtadeven/digit-recognizer-ml"><img src="assets/btn-code.svg" height="68" alt="View source code of Digit Recognizer" /></a>
 </p>
 
@@ -68,6 +71,7 @@
   <img src="assets/p4-devbot.svg" width="100%" alt="DevBot: Answers questions about me and my work, and says it doesn't know instead of making things up." />
 </p>
 <p align="center">
+  <a href="https://mehtadeven.github.io/ai-chatbot-python/"><img src="assets/btn-demo.svg" height="68" alt="See DevBot live in your browser" /></a>
   <a href="https://github.com/mehtadeven/ai-chatbot-python"><img src="assets/btn-code.svg" height="68" alt="View source code of DevBot" /></a>
 </p>
 
@@ -77,6 +81,7 @@
   <img src="assets/p5-recommender.svg" width="100%" alt="Movie Recommender: Pick a film you like and get the 5 most similar titles from a 60-film catalogue." />
 </p>
 <p align="center">
+  <a href="https://mehtadeven.github.io/movie-recommender-ai/"><img src="assets/btn-demo.svg" height="68" alt="See Movie Recommender live in your browser" /></a>
   <a href="https://github.com/mehtadeven/movie-recommender-ai"><img src="assets/btn-code.svg" height="68" alt="View source code of Movie Recommender" /></a>
 </p>
 
@@ -86,6 +91,7 @@
   <img src="assets/p6-summarizer.svg" width="100%" alt="Text Summarizer: Pulls the most important sentences out of a long article, word for word and in order." />
 </p>
 <p align="center">
+  <a href="https://mehtadeven.github.io/text-summarizer-ai/"><img src="assets/btn-demo.svg" height="68" alt="See Text Summarizer live in your browser" /></a>
   <a href="https://github.com/mehtadeven/text-summarizer-ai"><img src="assets/btn-code.svg" height="68" alt="View source code of Text Summarizer" /></a>
 </p>
 
@@ -134,7 +140,7 @@
   <img src="assets/connect.svg" width="100%" alt="Let's build something. Hiring an AI/ML intern, or need a project built?" />
 </p>
 <p align="center">
-  <a href="https://mehtadeven.github.io/portfolio"><img src="assets/btn-portfolio.svg" height="68" alt="View my portfolio" /></a>
+  <a href="https://mehtadeven.github.io/"><img src="assets/btn-portfolio.svg" height="68" alt="View my portfolio" /></a>
   <a href="https://github.com/mehtadeven?tab=repositories"><img src="assets/btn-projects.svg" height="68" alt="All my projects on GitHub" /></a>
   <a href="https://instagram.com/dev.builds"><img src="assets/btn-instagram.svg" height="68" alt="Instagram @dev.builds" /></a>
   <!-- Ready-made buttons. Put your email / LinkedIn link in, then remove the comment marks around the line:
